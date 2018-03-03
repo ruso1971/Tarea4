@@ -12,6 +12,9 @@ public class Giterrr {
     
     public static void main(String[] args) {
         
+        int casa;
+        int a;
+        
     }
 
 }
